@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px  100px;
+  background-image: url("graphicbingo.png");
+
+}
+
+section {
+  padding: 107px 0;
+}
+h2 {
+  text-align: center;
+}
+.details {
+  float: right;
+}
+#attendees {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#attenedees td, #attendees th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+table {
+  border: 1px solid black;
+}
+
+#attendees tr:nth-child(even){background-color: #f2f2f2;}
+
+#attendees tr:hover {background-color: #ddd;}
+
+#attenedees th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
